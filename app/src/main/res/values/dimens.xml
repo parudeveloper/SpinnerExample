@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="country_item_height">50</dimen>
+    <dimen name="general_margin">30</dimen>
+    <dimen name="button_round_radius">15</dimen>
+</resources>
