@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 
 import com.spinnerexample.databinding.ActivityMainBinding
 import java.util.ArrayList
-//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
+//Access
 class MainActivity : AppCompatActivity() {
     var listOfCountriesData = ArrayList<Countries>()
     lateinit var binding: ActivityMainBinding
